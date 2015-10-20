@@ -13,3 +13,6 @@ git checkout - Checkout a branch or paths to the working tree
 git commit - Record changes to the repository
 git push - Update remote refs along with associated object
 
+
+資管4B 卓翊涵 401630024
+資管4c 涂雅涵 401631444
