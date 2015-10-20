@@ -11,4 +11,5 @@ git checkout - Checkout a branch or paths to the working tree
 2. 說明 git commit, git push 差異。
 
 git commit - Record changes to the repository
-git push - Update remote refs along with associated objects
+git push - Update remote refs along with associated object
+
